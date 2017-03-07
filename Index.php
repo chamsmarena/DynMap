@@ -127,6 +127,11 @@ $stmt = $db->prepare("SELECT DATE_ACTUALITE FROM actualite  where ID_LANGUE='1' 
                 </form>
 
               </div>
+            
+            
+            
+            
+            
         </div>
     </div>
     </div>
@@ -146,7 +151,7 @@ $stmt = $db->prepare("SELECT DATE_ACTUALITE FROM actualite  where ID_LANGUE='1' 
 		
 	</div>
 	</div>
-    
+    test
     <script src="JS/ScriptEnd.js"></script>
 
 
